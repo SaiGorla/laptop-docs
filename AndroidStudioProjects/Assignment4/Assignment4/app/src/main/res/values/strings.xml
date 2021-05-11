@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assignment4</string>
+    <string name="textview">TextView</string>
+    <string name="enter_price">enter price</string>
+    <string name="add">ADD</string>
+    <string name="reset">RESET</string>
+    <string name="enter_a_choice">Enter a choice!</string>
+</resources>

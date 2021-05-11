@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="weight_kg">WEIGHT (KG)</string>
+    <string name="in_kgs">IN KGs</string>
+    <string name="calculate">Calculate</string>
+    <string name="calculator">Calculator</string>
+    <string name="bmi">BMI</string>
+    <string name="in_cms">IN CMs</string>
+    <string name="obese_class_i">obese_class_i</string>
+    <string name="obese_class_ii">obese_class_ii</string>
+    <string name="Fatty">Fatty</string>
+    <string name="very_severely_underweight">very_severely_underweight</string>
+    <string name="severely_underweight">severely_underweight</string>
+    <string name="underweight">underweight</string>
+    <string name="normal" >normal</string>
+    <string name="overweight" >overweight</string>
+    <string name="this_is_activity_2">This is Activity 2</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+</resources>

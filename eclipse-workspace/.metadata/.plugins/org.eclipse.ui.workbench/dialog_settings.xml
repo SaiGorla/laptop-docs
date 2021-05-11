@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.preferences.keysPreferencePage">
+	</section>
+	<section name="WorkbenchPreferenceDialogSettings">
+		<item value="374" key="DIALOG_X_ORIGIN"/>
+		<item value="8" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.ui.internal.QuickAccess">
+		<item value="450" key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_WIDTH"/>
+		<item value="506" key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_HEIGHT"/>
+		<item value="false" key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_USE_PERSISTED_LOCATION"/>
+		<item value="-1" key="dialogHeight"/>
+		<item value="-1" key="dialogWidth"/>
+		<item value="true" key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_USE_PERSISTED_SIZE"/>
+		<list key="textEntries">
+			<item value="1"/>
+		</list>
+		<list key="orderedElements">
+			<item value="org.eclipse.ui.window.preferences(preferencePageId=org.eclipse.epp.package.capabilities)"/>
+		</list>
+		<list key="orderedProviders">
+			<item value="org.eclipse.ui.commands"/>
+		</list>
+		<list key="textArray">
+			<item value="general"/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+</section>

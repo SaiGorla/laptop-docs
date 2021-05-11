@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Splash</string>
+    <string name="todo">TODO</string>
+    <string name="my_page">My Page</string>
+</resources>
